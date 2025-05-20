@@ -1,0 +1,29 @@
+Subject: Baby Dragon Access Granted
+
+body:
+
+```Hi [Student Name],
+
+Your request for access to Baby Dragon has been approved.
+
+You may now log in to the JupyterHub environment using the following URLs:
+- Inside the JIS Network: http://babydragon.jisedu.or.id:8080 
+- Outside the JIS Network: https://babydragon.indonesiaku.com
+
+Your credentials: 
+- Username: [Username]
+- Password: [Password]
+
+If this is your first time using the platform, we recommend starting with a simple Jupyter notebook or watching this tutorial. Common machine learning libraries such as PyTorch and TensorFlow are pre-installed.
+
+Guidelines for Use:
+- Use Baby Dragon only for academic or educational purposes  
+- Do not run cryptocurrency miners or other unauthorized processes  
+- Be considerate of shared GPU and CPU resources  
+- Clean up unused files and datasets when done
+
+If you need help or onboarding support, please reply to this email or contact the admin team.
+
+Thank you,  
+Baby Dragon Team
+```

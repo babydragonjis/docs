@@ -20,6 +20,8 @@
 
 * [Indonesiaku GitHub Repository](https://github.com/williammtan/indonesiaku)
 * [keys.env](https://drive.google.com/file/d/1JCQsiRQxCU_GCqp9mrtfm7pU5-ZNH7da/view?usp=sharing)
+* [Access Form Responder](https://docs.google.com/forms/d/e/1FAIpQLSfvlJqrv6Em6VPw-1pI_ilwl0HDb3-UWCaZAiy1WfKIlqLYug/viewform?usp=header) / [Access Form Editing](https://docs.google.com/forms/d/1qJTUD0DSu1W9u21dESVB9UI2AymGifoX1FLiQkf1zek/edit)
+* [Email Template](https://github.com/babydragon/docs)
 
 ---
 
@@ -133,8 +135,8 @@
 * [x] Proxy `babydragon.indonesiaku.com` via ngrok
 * [x] Migrate frontend to Netlify
 * [x] Write internal ops + secrets doc (logins, flow, etc.)
-* [ ] Build access request form
-* [ ] Automate access approval emails
+* [x] Build access request form
+* [x] Automate access approval emails
 * [ ] Shut down all GCP services → reach \$0 infra
 
 ---
