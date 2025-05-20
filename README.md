@@ -56,6 +56,16 @@
 
 ---
 
+## Admin Worflow
+1. User submits a form.
+2. Review the request.
+3. Create a user by logging into jupyterhub: go to File > Hub Control Panel > Admin > Add User. The username is up to you.
+4. Set the password of this user by logging in as the assigned username and setting the new password 
+    * Generate a random generated strong password ([Password Generator](https://www.lastpass.com/features/password-generator))
+5. Send the confirmation email using the [Email Template](https://github.com/babydragon/docs).
+
+---
+
 ## 🔧 Services & Integrations
 
 > **Note:** All credentials are stored in `keys.env` and referenced like `${VARIABLE}` (e.g. `$CLOUDFLARE_EMAIL`).
@@ -66,7 +76,7 @@
 ### 💻 JupyterHub
 
 * Powered by [The Littlest JupyterHub](https://tljh.jupyter.org/en/latest/)
-* Admin users can manage sessions and user permissions.
+* Admin users can manage sessions and user permissions (File > Hub Control Panel > Admin)
 
 ---
 
